@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="menu">
+        <item>默认情况下的状态栏</item>
+        <item>添加ActionBar下的状态栏</item>
+        <item>动态选择颜色下的状态栏</item>
+        <item>徒手实现的状态栏</item>
+    </string-array>
+</resources>

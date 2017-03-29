@@ -1,0 +1,25 @@
+<resources>
+
+
+    <style name="FullBleedTheme" parent="android:Theme.Light.NoTitleBar" />
+
+    <style name="ActionBarTheme" parent="android:Theme.Light" />
+
+    <style name="AppBaseTheme" parent="android:Theme" />
+
+
+    <style name="AppTheme" parent="BaseAppTheme">
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowTranslucentNavigation">true</item>
+        <!--&lt;!&ndash;<item name="android:windowTranslucentNavigation">true</item>&ndash;&gt;-->
+        <!--&lt;!&ndash;<item name="android:statusBarColor">@android:color/transparent</item>&ndash;&gt;-->
+        <!--&lt;!&ndash;<item name="android:fitsSystemWindows">true</item>&ndash;&gt;-->
+        <!--<item name="colorPrimary">@color/primary</item>-->
+        <!--&lt;!&ndash;<item name="colorPrimaryDark">@android:color/holo_red_dark</item>&ndash;&gt;-->
+        <!--<item name="colorAccent">#FF4081</item>-->
+    </style>
+
+    <style name="MyAppTheme" parent="@style/BaseAppTheme"></style>
+
+
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:fitsSystemWindows="false"
+>
+
+
+    <android.support.v7.widget.Toolbar
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+
+        android:background="@color/colorAccent"></android.support.v7.widget.Toolbar>
+
+    <!--<LinearLayout-->
+    <!--android:id="@+id/hide_title_ll_title"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:background="#245697"-->
+    <!--android:fitsSystemWindows="true"-->
+    <!--android:orientation="vertical" />-->
+    <!--&lt;!&ndash;属性二&ndash;&gt;>-->
+
+    <!--<TextView-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_gravity="center"-->
+    <!--android:gravity="center"-->
+    <!--android:text="标题标题标题标题标题标题"-->
+    <!--android:textSize="24sp" />-->
+</FrameLayout>
